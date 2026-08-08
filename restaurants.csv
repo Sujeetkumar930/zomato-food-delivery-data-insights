@@ -1,0 +1,51 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+1,"Sani, Tandon and Shroff",North Indian,Hyderabad,Abdul Mohanty,60,2737929022,4.8,1375,False
+2,"Sani, Hora and Ramesh",Chinese,Sultan Pur Majra,Ucchal Barad,28,01657602394,3.8,4538,False
+3,Guha-Bala,Italian,Hyderabad,Ronith Dhawan,36,04172651641,3.4,2876,True
+4,"Varty, Kannan and Sachdev",Chinese,Ulhasnagar,Girish Palla,30,06388721749,3.6,450,True
+5,Guha-Bala,Mexican,Ghaziabad,Akshay Dora,38,6058086998,3.0,210,True
+6,Lad and Sons,Mexican,Kottayam,Wakeeta Bava,28,06713191465,4.8,1178,True
+7,Shenoy-Misra,Chinese,Madurai,Rehaan Warrior,46,+912464418213,3.1,2863,False
+8,Buch-Lanka,Biryani,Thanjavur,Anay Malhotra,20,+916022028417,4.1,527,False
+9,"Verma, Subramanian and Kadakia",Fast Food,Aurangabad,Omkaar Sood,51,02669952973,3.4,2774,False
+10,Padmanabhan Group,Mexican,Bijapur,Nandini Gala,55,6838744870,4.9,309,False
+11,Sehgal-Gokhale,Fast Food,Dhanbad,Aishani Rege,45,03573685627,3.6,2748,True
+12,Thaker PLC,Italian,Sultan Pur Majra,Varsha Singhal,40,+913680376154,3.0,1321,True
+13,Hayre-D’Alia,Desserts,Kulti,Advika Mann,46,+913062155482,4.8,475,True
+14,Dua Inc,North Indian,Imphal,Jonathan Seshadri,35,07697206019,3.9,1382,True
+15,"Dua, Mukhopadhyay and Sangha",South Indian,Pimpri-Chinchwad,Noah Gupta,20,+918440826676,4.4,2581,False
+16,Sani LLC,Italian,Agartala,Samaksh Natarajan,30,+911964448860,3.1,3596,True
+17,"Koshy, Thakur and Mody",Desserts,Ramgarh,Yochana Guha,50,3436482294,4.0,969,True
+18,Baria-Dua,Italian,Nellore,Vrinda Kohli,26,+914628672243,4.3,4271,True
+19,"Dayal, Agate and Dugar",South Indian,Bhopal,Yauvani Bala,37,+911416568115,3.0,935,False
+20,Kota-Din,South Indian,Medininagar,Bakhshi Kara,57,+919709235744,3.5,2849,True
+21,Johal-Mannan,Desserts,Shahjahanpur,Neelima Mody,51,+917727792613,3.2,3389,False
+22,Sinha Inc,Mexican,Vellore,Anay Sekhon,40,+913677588235,3.8,4790,False
+23,Deshmukh and Sons,Desserts,Guna,Sudiksha Dani,33,5165969528,4.3,2315,True
+24,"Zacharia, Wason and Kaur",Chinese,Deoghar,Manthan Buch,25,1090936289,3.4,3179,False
+25,Chokshi-Seth,Fast Food,Alwar,Hardik Padmanabhan,48,7361677680,3.5,4351,False
+26,Ramakrishnan-Mander,Mexican,Saharanpur,Parth Master,21,8750991664,3.9,3314,False
+27,"Kothari, Peri and Jayaraman",Mexican,Gwalior,Chameli Sethi,24,5984971087,4.0,1974,False
+28,Iyer-Nigam,Fast Food,Bhilai,Prisha De,23,02661136702,4.3,3669,True
+29,Buch PLC,North Indian,Panihati,Aadhya Sen,28,03561880590,4.2,4856,True
+30,Tank-Ahluwalia,Biryani,Thane,Janani Bora,46,09872408013,4.1,2301,False
+31,"Venkatesh, Natarajan and Balakrishnan",Chinese,Chittoor,Fariq Mittal,34,+914038713852,3.4,3448,True
+32,Sahni-Comar,North Indian,Tirunelveli,Aditya Arya,51,+914875780691,4.5,269,False
+33,Agarwal-Bhandari,South Indian,Barasat,Banjeet Dada,55,6202663847,4.4,1857,True
+34,Bawa and Sons,Biryani,Sangli-Miraj & Kupwad,Maanas Bobal,46,09554328705,4.0,2678,True
+35,"Gour, Dutta and Dhingra",South Indian,Ludhiana,Jeremiah Palla,56,+917785624632,3.7,1124,False
+36,Varghese-Handa,Chinese,Bhatpara,Charita Lanka,47,2687862579,4.4,2922,False
+37,Doctor Inc,Desserts,Korba,Lavanya Mody,29,1882158732,4.9,3734,False
+38,Sood Group,North Indian,Farrukhabad,Omkaar Virk,28,05462167002,3.1,3098,True
+39,Bassi Ltd,Biryani,Ludhiana,George Pai,59,08259816505,3.9,2973,False
+40,Krishnan Ltd,Fast Food,Amroha,Qadim Murty,57,8359493081,3.1,2185,False
+41,Walla-Bhattacharyya,Italian,North Dumdum,Abhimanyu Gopal,38,+916110551787,4.0,508,False
+42,Joshi and Sons,Mexican,Begusarai,Nandini Dua,36,06319087393,3.3,1041,False
+43,Bail PLC,South Indian,Raichur,Warinder Rau,38,9598915355,4.6,3829,False
+44,Wali-Pingle,Fast Food,Amaravati,Sarthak Aurora,35,03499009813,4.5,3736,True
+45,Nori Inc,Fast Food,Karawal Nagar,Sachi Biswas,45,+916171692743,3.7,782,False
+46,"Agrawal, Lala and Sengupta",Fast Food,Kochi,Peter Tata,59,+913479200211,3.1,1843,False
+47,"Walla, Agarwal and Soman",Fast Food,Firozabad,Aarush Shankar,29,+917098261489,3.4,4572,False
+48,Garg-Agate,Chinese,Guwahati,Jyoti Pradhan,42,5994626750,4.0,2861,False
+49,"Swaminathan, Sawhney and Chadha",Chinese,Naihati,Zaitra Lalla,51,01307912820,3.6,2724,True
+50,Parmer-Nigam,Mexican,Amritsar,Brijesh Pai,28,03395394290,3.1,653,True

@@ -1,0 +1,101 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,average_rating,total_orders
+1,Dominic Comar,pallubika@example.net,07182294224,"H.No. 17, Mitter, Warangal 443848",2025-10-05,False,Fast Food,4.3,180
+2,Krish Reddy,yashawini95@example.com,8115412754,"H.No. 498, Bhattacharyya Marg, Hubli–Dharwad 689021",2024-01-04,True,Desserts,4.5,119
+3,Januja Kar,vrishti87@example.net,+918424282943,"35, Mallick Nagar, Jabalpur-175800",2023-09-29,True,North Indian,4.1,111
+4,Benjamin Kota,tchander@example.org,+913697985232,"H.No. 314, Bandi Ganj, Ludhiana 771696",2026-02-13,True,Desserts,3.0,156
+5,Oeshi Wali,matthew11@example.org,2415277405,"269, Bajaj Marg, Udaipur 266529",2025-12-22,False,Chinese,3.8,87
+6,Panini Gulati,yatan80@example.net,0318189312,"65/10, Chad Marg, Naihati 418521",2023-12-24,True,Mexican,3.0,136
+7,Sachi Batta,xalakhans@example.net,+917804810585,"16/73, Brar Circle, Uluberia 104756",2025-05-12,True,South Indian,3.8,163
+8,Dalaja Yogi,pchana@example.net,00495969214,"74/862, Kala Circle, Ranchi-094327",2025-06-03,True,Biryani,3.1,154
+9,George Dutta,kamyapillai@example.net,7744330600,"H.No. 46, Walia, Surat 845832",2024-06-21,False,North Indian,4.5,266
+10,Bahadurjit Ganguly,janakisule@example.com,06222890196,"H.No. 48, Varughese Path, Bardhaman 368502",2025-06-16,False,North Indian,4.1,170
+11,Fariq Viswanathan,samarbhandari@example.com,06347026376,"H.No. 958, Das Nagar, Farrukhabad 349853",2025-05-31,False,Biryani,4.0,106
+12,Utkarsh Boase,sathvik82@example.net,01160214645,"H.No. 20, Dugal Zila, Panihati-355237",2025-11-12,True,South Indian,3.5,153
+13,Balendra Padmanabhan,choudhryria@example.com,+914584371246,"27/458, Karan Path, Rajkot 764798",2025-10-29,False,Italian,4.4,46
+14,Bishakha Subramanian,ocheema@example.org,+918842222555,"H.No. 78, Palan Ganj, Kochi 260707",2026-05-08,True,South Indian,3.5,254
+15,Bhavini Parikh,mitesh60@example.com,3569625650,"H.No. 88, Mangat Path, Kamarhati-781102",2024-12-26,True,Chinese,3.8,13
+16,Girik Gera,bsaini@example.net,01691478920,"23/42, Bhagat Chowk, Cuttack 707918",2026-01-26,False,Fast Food,4.4,10
+17,Hemani Bir,praneelbali@example.org,04608257951,"H.No. 91, Mahajan Circle, Alappuzha-536414",2026-03-20,False,Biryani,4.4,100
+18,Ishaan Mangal,zachariahmohammed@example.org,1013118402,"26/19, Mital Nagar, Mangalore-165805",2026-06-01,True,Fast Food,4.0,214
+19,Xiti Ganesan,ranveerkota@example.org,9224013590,"H.No. 22, Chad, Ballia 823918",2025-06-21,False,Italian,3.1,285
+20,Aarna Prabhakar,vihaandalal@example.com,01558996604,"H.No. 038, Sama Chowk, Durgapur-717073",2025-07-13,False,Desserts,4.6,133
+21,Henry Sibal,kapoorupma@example.net,03962013182,"902, Gole, Jorhat 602949",2024-11-17,False,North Indian,4.6,182
+22,Triveni Kalla,nidra29@example.org,+910154549818,"732, Rajagopal Zila, Jorhat-481575",2025-05-14,True,Desserts,3.1,146
+23,Pranav Khosla,mtrivedi@example.org,06527434093,"H.No. 93, Pillai Marg, Jaipur 455962",2025-03-13,True,Chinese,4.8,80
+24,Abhimanyu Goda,dakshnarayanan@example.com,8009238948,"90, Majumdar Zila, Aurangabad-489929",2025-06-30,True,South Indian,4.2,75
+25,Ikbal Edwin,fsachar@example.org,02643143645,"073, Bhatti Street, Kamarhati 559092",2024-02-29,True,Mexican,3.1,262
+26,Tanveer Rau,rachit03@example.org,+917718980549,"51, Malhotra Nagar, Gaya-880847",2023-11-26,False,North Indian,3.5,1
+27,Maanas Bhatti,tara99@example.org,2192864754,"522, Date Path, Serampore 576675",2024-11-19,True,Biryani,3.1,94
+28,Varenya Ravi,pathakchanakya@example.com,0751628636,"H.No. 305, Dalal Chowk, Khandwa-427115",2025-06-04,True,Fast Food,3.5,133
+29,Chaman Naik,nrama@example.net,+913671702409,"H.No. 65, Pandit Circle, Sangli-Miraj & Kupwad-039333",2026-04-04,True,Desserts,4.4,24
+30,Krisha Manda,michael61@example.net,+915183296432,"H.No. 18, Deshmukh Ganj, Akola 740348",2025-12-13,True,Desserts,3.9,59
+31,Simon Raval,dalbir08@example.com,07765845708,"71/621, Buch Road, Farrukhabad 334100",2023-12-23,True,North Indian,4.1,180
+32,Waida Raj,ykrishna@example.com,+912853186339,"97/059, Lala Path, Amritsar 143900",2026-01-07,True,North Indian,4.8,234
+33,Anamika Rana,zpalla@example.com,+914768503929,"612, Pingle Circle, Gopalpur 821128",2026-02-13,True,South Indian,4.6,112
+34,Krishna Dugar,khoslaayushman@example.org,+910274573624,"68/63, Varma Street, Ozhukarai 423676",2024-06-13,False,Biryani,4.1,269
+35,Yashoda Sura,rachit68@example.net,3276105316,"440, Bhargava Marg, Shimoga 019116",2024-05-23,False,Chinese,4.1,46
+36,Yasti Rastogi,faqidrajan@example.net,9984786249,"88, Soni Path, Madurai 207411",2025-05-04,True,Chinese,4.8,280
+37,Leela Ben,maanav56@example.org,7312780127,"591, Peri Nagar, Kolhapur-126210",2026-05-20,True,Fast Food,3.1,52
+38,Tanvi Handa,vsule@example.com,0347472666,"05, Sankaran, Begusarai 281089",2024-12-09,True,Italian,3.2,287
+39,Nitara Bose,nachiket58@example.com,+911377627876,"25/643, D’Alia Chowk, Bhalswa Jahangir Pur-273788",2023-08-06,False,Chinese,4.0,1
+40,Widisha Behl,kaibhat@example.org,8528070226,"18/640, Rege Zila, Dhanbad 297131",2025-02-28,False,Fast Food,5.0,19
+41,Ekantika Singhal,sarkarguneet@example.net,05711236301,"92/23, Pandya Road, Bilaspur 534657",2025-08-27,True,Chinese,4.8,164
+42,Niharika Sha,sethekaraj@example.com,+911792816299,"H.No. 89, Bajwa Circle, Nellore-132288",2026-04-05,True,Italian,4.4,17
+43,Arin Samra,janya45@example.com,05756605044,"48/638, Doctor Road, Satna-537315",2026-05-01,True,North Indian,4.4,220
+44,Frado Mane,voommen@example.com,+910567787150,"48, Maharaj Marg, Dindigul-995502",2024-07-27,False,Chinese,3.5,193
+45,Aradhana Sankar,praneelkamdar@example.net,9826571733,"29/03, Venkataraman Chowk, Ahmedabad-550941",2026-04-11,True,Fast Food,3.6,43
+46,Keya Zacharia,arjun59@example.org,8986274425,"81, Gour Path, Loni 859579",2024-11-01,True,North Indian,4.9,48
+47,Indira Khosla,adya51@example.net,05085820923,"37/35, Gara Path, Chinsurah 331131",2025-01-22,False,Desserts,3.5,202
+48,Chakradev Chatterjee,qabilkrishnamurthy@example.com,7639669736,"H.No. 62, Aurora Path, Imphal-679261",2026-05-19,False,North Indian,3.7,293
+49,Wakeeta Koshy,jhayashica@example.net,+917058557504,"H.No. 925, Parekh Street, Bhilai-704739",2025-11-02,False,North Indian,3.3,74
+50,Zayyan Bhasin,ydatta@example.org,+919896304674,"20/65, Basak Chowk, Kamarhati-487284",2025-10-01,False,Desserts,3.4,247
+51,Hema Barad,xravi@example.com,+912247591236,"H.No. 331, Dara Street, Bhiwani-950667",2026-06-19,False,South Indian,4.0,154
+52,Yashodhara Sachdeva,ektamannan@example.net,8889086803,"325, Soni Path, Gaya 027847",2024-05-23,True,Biryani,4.3,279
+53,Lekha Mangal,chackodevansh@example.com,8906912997,"82, Maharaj Marg, Guntakal-146043",2025-12-27,False,Fast Food,4.5,90
+54,Xalak Gaba,lbhatt@example.com,0634973987,"22/219, Majumdar Road, Gulbarga-340870",2024-07-04,True,North Indian,4.3,174
+55,Omisha Bhavsar,sanaya70@example.org,+911993324955,"11/539, Baria, Haldia-943973",2024-02-24,True,Mexican,4.9,59
+56,Anthony Mangat,chakradev84@example.net,00344180309,"H.No. 068, Vala Zila, Jodhpur 473022",2024-06-18,True,Biryani,3.2,274
+57,Balveer Kale,jsodhi@example.net,05343007766,"H.No. 275, Viswanathan Circle, Dharmavaram 559776",2026-06-10,True,North Indian,3.3,141
+58,Ethan Kalita,vrishti19@example.org,07713366957,"H.No. 915, Hayre Zila, Nanded-211624",2023-12-15,False,North Indian,4.8,70
+59,Daksha Kata,ayaankar@example.net,7260270919,"59/262, Vasa Street, Gorakhpur-950062",2024-11-20,True,Biryani,3.3,168
+60,Vrishti Iyengar,ekajatiwari@example.com,+918727448331,"59/304, Kunda Street, Jamalpur-175136",2024-08-27,False,Fast Food,3.2,128
+61,Zilmil Nadig,senchaitaly@example.org,08340651907,"81/605, Sachar Path, Meerut 894330",2024-05-15,True,Mexican,3.6,27
+62,Liam Dash,vamakshisekhon@example.org,08007415782,"H.No. 61, Agarwal, Loni 055096",2025-11-28,False,South Indian,4.4,60
+63,Nakul Som,rmangal@example.net,+912470839937,"40/710, Khatri Road, Nangloi Jat-540823",2026-03-09,False,Desserts,4.1,173
+64,Janani Solanki,ganga18@example.org,09465261396,"34/30, Anne Path, Coimbatore 903221",2024-02-27,True,Fast Food,3.9,119
+65,Bishakha Vohra,skashyap@example.com,+911972324549,"H.No. 05, Bhatnagar Circle, Chandrapur-299828",2023-08-31,True,North Indian,3.8,206
+66,Warda Palan,bajwaupkaar@example.org,+910409050062,"554, Trivedi, Haldia-039025",2024-02-11,False,Desserts,4.0,94
+67,Manbir Dhillon,chaudhuridivya@example.org,6643111835,"49, Mammen, Bardhaman 696150",2024-02-28,True,North Indian,3.5,162
+68,Timothy Mukhopadhyay,vidhi32@example.net,8809789465,"617, Uppal Street, Suryapet-681948",2023-07-26,True,Biryani,3.9,24
+69,Chakrika Barad,kamalapanchal@example.org,+917368686893,"H.No. 930, Mangal Road, Guwahati-910371",2025-08-14,False,South Indian,4.5,209
+70,Pushti Joshi,hraval@example.org,+912876791945,"77/918, Sane Road, Lucknow 577118",2024-02-05,False,Chinese,4.2,81
+71,Ekapad Balay,anita67@example.com,+912292022790,"66, Bhatt Path, Ulhasnagar 013202",2025-02-01,True,South Indian,4.3,107
+72,Ansh Vasa,wchander@example.org,+919323634430,"002, Nazareth Marg, Nangloi Jat-757504",2025-10-28,False,South Indian,4.3,175
+73,Eta Tandon,nadigdayamai@example.net,04889345297,"21/084, Ganesan Street, Katni-715799",2025-02-05,False,South Indian,3.8,149
+74,Divya Seth,bhardwajbrinda@example.org,8633856818,"64/816, Walla Nagar, Visakhapatnam-340573",2023-10-26,True,Mexican,4.0,148
+75,Januja Mukhopadhyay,bakshivyanjana@example.com,+912640689422,"03/59, D’Alia, Delhi 296155",2025-06-19,True,Italian,3.9,187
+76,Edhitha Kade,venkateshanusha@example.com,8169625552,"H.No. 77, Sachdev, Guntakal-849646",2025-02-07,False,Italian,4.3,296
+77,Anjali Bhargava,draman@example.net,8820191639,"39/31, Gill Ganj, Bhatpara-003461",2024-07-11,False,Fast Food,3.6,202
+78,Liam Sankar,madhavi31@example.com,+910434879070,"H.No. 700, Jha, Bhatpara-694058",2024-06-01,False,Biryani,3.7,247
+79,Warda Batta,devansh73@example.net,0902449419,"29/338, Vohra Marg, Mira-Bhayandar-505984",2023-08-11,True,Biryani,3.3,195
+80,Warhi Balakrishnan,semvrishti@example.org,+916800160007,"59/259, Chadha Circle, Vadodara 164455",2024-03-18,False,Chinese,4.2,185
+81,Yashoda Dhar,brarwarinder@example.org,+910418685272,"23/77, Kothari, Mysore 160703",2024-01-29,True,North Indian,3.3,101
+82,Hamsini Boase,wallabrijesh@example.org,1656580084,"65/960, Pillai Street, Shimoga-715571",2023-08-08,True,Chinese,4.7,112
+83,Tamanna Bhandari,ucchalsani@example.net,3048352913,"37/55, Das Zila, Imphal 532187",2024-04-20,False,North Indian,4.9,78
+84,Netra Brar,radhachaudry@example.com,4132660729,"81/94, Ghose Circle, Bidhannagar-660905",2025-05-12,False,Mexican,4.0,230
+85,Vasatika Goel,maharajfariq@example.net,01006089327,"70/13, Krish Zila, Bongaigaon-015675",2023-10-12,True,Italian,4.3,295
+86,Netra Kanda,bishakha70@example.net,1102568598,"97, Chaudry Road, Meerut 314673",2023-10-29,False,Fast Food,3.4,233
+87,Bhavani Bakshi,tmisra@example.com,9817008012,"H.No. 41, Memon Nagar, Ghaziabad 136818",2024-12-29,False,Chinese,3.6,297
+88,Libni Tailor,okeer@example.org,+912474818899,"H.No. 24, Sandhu Ganj, Ratlam 592119",2024-12-21,False,Italian,3.2,289
+89,Rohan Lata,zsingh@example.net,02415990179,"77/533, Krish, New Delhi-079018",2023-11-04,True,Desserts,3.9,22
+90,Dayita Jaggi,isaiahbasu@example.com,8534275037,"95, Ghosh Ganj, Kolkata-757823",2025-07-16,False,Desserts,4.1,253
+91,Eesha Kala,draval@example.org,+911860550727,"H.No. 353, Kapur Circle, Saharsa-831499",2023-11-18,False,South Indian,3.4,53
+92,Ekalinga Saran,qdin@example.com,1001004596,"H.No. 851, Saini Zila, Mumbai 004357",2024-12-23,True,Fast Food,3.6,287
+93,Pallavi Sawhney,narangwakeeta@example.com,+915315401044,"65/37, Banerjee, Agra-925884",2025-10-10,True,Chinese,4.9,297
+94,Zaitra Korpal,deishwar@example.net,+912201760050,"89, Chadha Street, Bettiah 115784",2026-03-27,False,Desserts,4.6,214
+95,Advika Kara,abhirammani@example.com,6442152454,"38, Wable Ganj, Dharmavaram 290795",2024-11-13,False,Italian,3.9,234
+96,Leela Cherian,sarkarbimala@example.com,01744074528,"H.No. 055, Vala, Malda 550195",2026-01-07,True,Italian,3.0,7
+97,Dakshesh Kade,karajason@example.net,07020017728,"399, Rai, Aurangabad-515112",2025-10-22,False,North Indian,3.1,269
+98,Libni Pathak,nsura@example.com,8437412452,"95/35, Raju Chowk, Kurnool-553432",2026-03-10,False,Chinese,4.4,293
+99,Nimrat Dar,oommenadweta@example.net,01390010038,"H.No. 690, Venkatesh Nagar, Ongole 228075",2026-03-21,True,Biryani,3.1,198
+100,Qushi Bala,arunimathakur@example.com,+911397803349,"H.No. 534, Kapadia, Rewa-832767",2024-07-31,True,Biryani,3.5,295

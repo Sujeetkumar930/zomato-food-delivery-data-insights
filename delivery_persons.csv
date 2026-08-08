@@ -1,0 +1,101 @@
+delivery_person_id,name,contact_number,vehicle_type,total_deliveries,average_rating,location
+1,Chameli Chander,09451151298,Scooter,4145,3.7,Sri Ganganagar
+2,Oni Munshi,+919132593095,Car,1210,4.4,Imphal
+3,Baljiwan Raghavan,+910460266361,Car,4175,4.8,Dhule
+4,Agastya Pall,02022629297,Car,4038,3.7,New Delhi
+5,Vivaan Gandhi,00534137460,Scooter,2281,4.0,Tinsukia
+6,Krishna Venkataraman,03019016694,Car,4379,4.9,Begusarai
+7,Bina Khurana,3944854579,Car,3296,4.1,Nadiad
+8,Hema Chada,01897154372,Car,3777,3.8,Tumkur
+9,Warjas Dubey,06207092838,Bike,326,5.0,Eluru
+10,Ekanta Palla,+916015060523,Bike,2471,4.4,Delhi
+11,Jyoti Ramakrishnan,+911907286103,Car,3788,4.8,Surat
+12,Xalak Anand,+912834602084,Bike,4326,4.4,Gulbarga
+13,Amol Pall,+914065774083,Car,579,3.8,Rampur
+14,Theodore Bali,8675424410,Scooter,1680,4.0,Surendranagar Dudhrej
+15,Wishi Krishna,00868425599,Car,1427,3.5,Ujjain
+16,Anamika Chakrabarti,02697732158,Car,4839,3.6,Bhopal
+17,Pallavi Sule,+915743151554,Car,369,4.7,Kharagpur
+18,Omya Dass,+918689978387,Scooter,4282,4.7,Shimla
+19,Nitesh Bhakta,01709721895,Bike,4830,4.0,Gudivada
+20,Vritti Raman,08389250495,Bike,3221,4.7,Hubli–Dharwad
+21,Zayyan Choudhry,+911341518150,Car,553,4.3,Mira-Bhayandar
+22,Unnati De,02368168095,Bike,4464,3.7,Nadiad
+23,Rayaan Kothari,+919504510756,Car,502,4.0,Katihar
+24,Niharika Ravel,4976166047,Bike,3985,5.0,Dindigul
+25,Anthony Nagy,02789364522,Bike,4138,4.8,Ozhukarai
+26,Riya Om,07926388184,Bike,4130,3.7,Navi Mumbai
+27,Kabir Zachariah,3279387083,Car,3878,4.8,Kolhapur
+28,Idika Batta,01089513972,Car,3870,3.7,Guntakal
+29,Bhanumati Balasubramanian,5237183296,Scooter,4927,3.6,Arrah
+30,Samarth Basak,+918606963415,Car,391,4.6,Ramgarh
+31,Dhriti Tiwari,08560165479,Car,1704,4.7,Pudukkottai
+32,Ojas Wagle,05307129264,Scooter,1883,4.7,Jodhpur
+33,Oliver Murty,+919209847527,Car,3564,4.9,Bhatpara
+34,Advika Rao,6590879122,Scooter,4837,4.9,Saharanpur
+35,Nihal Puri,06999488535,Car,3878,4.5,Satna
+36,Yadavi Sodhi,6809004140,Car,4666,3.8,Agra
+37,Nandini Srivastava,5850300923,Car,2877,4.8,Gangtok
+38,Abha Divan,9147775958,Bike,1460,4.3,Mahbubnagar
+39,David Cheema,+919799746617,Car,4993,4.8,Jalgaon
+40,Gaurang Magar,8629471548,Car,2353,3.9,Chandrapur
+41,Ganga Tara,01868415190,Scooter,2258,4.0,Kirari Suleman Nagar
+42,Radhika Handa,05674712720,Bike,2448,3.7,Anand
+43,Anmol Sastry,05630179284,Bike,2120,4.6,Ujjain
+44,Matthew Dua,3517088760,Scooter,1557,4.3,Kozhikode
+45,Alka Dhillon,00642193030,Scooter,443,4.3,Madhyamgram
+46,Sneha Ahluwalia,+917796458707,Bike,518,3.9,Kurnool
+47,Nathan Karan,03942379008,Bike,1183,4.4,Madanapalle
+48,Aarna Kakar,01113357246,Scooter,1669,3.6,New Delhi
+49,Thomas Hari,+913038016352,Car,502,4.3,Bellary
+50,Tara Dhawan,6355716285,Bike,1571,4.2,Ratlam
+51,Yagnesh Krishnamurthy,+915105484100,Car,2653,4.3,Gwalior
+52,Gautami Munshi,1974516526,Bike,985,3.8,Karnal
+53,Indrajit Bandi,9954999261,Scooter,3024,4.0,Pondicherry
+54,Rachita Nazareth,+914857819766,Bike,2399,4.7,Singrauli
+55,Rishi Ganesh,8540749703,Scooter,2794,3.9,Guntur
+56,Abeer Bajwa,00673772564,Scooter,1180,4.0,Firozabad
+57,Alexander Panchal,0216235090,Car,4990,3.7,Sangli-Miraj & Kupwad
+58,Triveni Sachdeva,00218932049,Bike,837,4.2,Malda
+59,Madhav Tandon,+917897365679,Scooter,244,3.9,Haridwar
+60,Finn Purohit,00235482622,Bike,1734,4.5,Sambalpur
+61,Advik Wali,08049512753,Car,1355,4.9,Bhind
+62,Gaurika Pingle,9697770972,Car,623,3.5,Darbhanga
+63,William Chahal,3596751206,Car,2332,4.2,Erode
+64,Naveen Sahni,01989247613,Bike,3645,4.2,Mysore
+65,Nidhi Ravel,5484203426,Bike,2805,4.7,Agartala
+66,Urvashi Tripathi,00099558930,Bike,2839,4.7,Srinagar
+67,Advika Sidhu,5720628608,Scooter,622,5.0,Akola
+68,Jasmit Sengupta,4292597540,Bike,1194,4.6,Mangalore
+69,Charles Bandi,+913963308481,Scooter,1946,4.3,Fatehpur
+70,Ishwar Chakrabarti,08609104736,Scooter,526,4.9,Gandhinagar
+71,Fitan Devi,08075074050,Scooter,2706,4.9,Berhampur
+72,Zashil Mukherjee,07333818299,Car,298,4.8,Varanasi
+73,Max Gola,6322194175,Car,2290,3.7,Imphal
+74,Zinal Shere,+918658667805,Bike,3484,4.7,Alwar
+75,Chaitaly Khosla,5294169522,Bike,1798,4.7,Mira-Bhayandar
+76,Ekapad Verma,03769671017,Scooter,2236,4.7,Ballia
+77,Yoshita Murthy,8877969883,Bike,2439,4.3,Raurkela Industrial Township
+78,Dhriti Prasad,+912623206720,Car,2498,4.9,Bettiah
+79,Aarnav Bumb,09317964590,Scooter,2406,4.1,Bally
+80,Januja Varty,02018501214,Car,236,4.3,Baranagar
+81,Hamsini Bajwa,+915803106602,Scooter,1142,4.6,Sagar
+82,Atharv Kannan,7384721993,Scooter,3982,4.8,Bhiwani
+83,Hema Nanda,+913498344817,Scooter,1794,4.1,Vadodara
+84,Joshua Chawla,04213047599,Car,2889,4.0,Meerut
+85,Jackson Ganesan,00430078204,Car,3548,3.6,Aizawl
+86,Jhalak Bhavsar,6854834935,Car,1929,4.4,Sasaram
+87,Ayush Sama,08461580737,Scooter,2768,4.1,Bulandshahr
+88,Varenya Sami,+919978042360,Bike,4788,4.1,Mahbubnagar
+89,Bhanumati Dayal,8671963359,Bike,3741,4.3,Thoothukudi
+90,Nimrat Boase,3710425560,Scooter,1497,4.0,Korba
+91,David Kalla,00471256282,Bike,3088,4.4,Panipat
+92,Oliver Tiwari,01915380640,Bike,2451,4.5,Rewa
+93,Jagdish Sodhi,05945590062,Scooter,1917,4.2,Jalna
+94,Ekantika Deol,7545953768,Scooter,3605,4.2,Naihati
+95,Vedant Grover,02007876869,Scooter,3917,4.7,Morena
+96,Devansh Batta,07279586229,Car,4658,4.4,Bhavnagar
+97,Suhani Sarin,06971500764,Car,1342,4.4,Kirari Suleman Nagar
+98,Victor Thaker,+915332809880,Car,2939,4.4,Kulti
+99,Udyati Thakkar,+911740698455,Scooter,1959,4.4,Mysore
+100,Chakrika Sarraf,4107872084,Scooter,2694,3.9,Vadodara
