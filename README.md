@@ -6,8 +6,6 @@ A complete food-delivery data analysis and management application built using Py
 
 This project analyzes and manages Zomato food-delivery data through an interactive Streamlit application connected to a MySQL database.
 
-The application provides analytical dashboards, data visualization, SQL-based analysis, and CRUD operations for customers, restaurants, orders, delivery persons, and deliveries.
-
 ## Features
 
 - Interactive Streamlit dashboard
@@ -21,25 +19,21 @@ The application provides analytical dashboards, data visualization, SQL-based an
 - SQL-based data analysis
 - CRUD operations
 - Add, update, and delete records
-- Search customer/order/delivery-related records
+- Search customer, order, and delivery-related records
 - Faker-based dataset generation
 
 ## Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| Python | Application development |
-| Streamlit | Interactive web application |
-| MySQL | Database management |
-| SQL | Data querying and analysis |
-| Pandas | Data processing |
-| Matplotlib | Data visualization |
-| Faker | Synthetic dataset generation |
-| Jupyter Notebook | Dataset generation and development |
+- Python
+- Streamlit
+- MySQL
+- SQL
+- Pandas
+- Matplotlib
+- Faker
+- Jupyter Notebook
 
 ## Database Entities
-
-The project contains the following main entities:
 
 - Customers
 - Restaurants
@@ -67,10 +61,10 @@ zomato-food-delivery-data-insights/
 ├── zomato_data_generator.ipynb
 │
 └── Zomato_Project_Cover_Page_One_Page.docx
-` ` `
-
+```
 
 ## Application Preview
+
 ![Zomato Food Delivery Data Insights](./Screenshot%202026-08-08%20090036.png)
 
 
