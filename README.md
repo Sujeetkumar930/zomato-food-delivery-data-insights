@@ -75,4 +75,4 @@ Then commit the change.
 After that, GitHub should show **Application Preview as a heading and the actual screenshot underneath it**, rather than showing the Markdown code.
 
 ## Application Preview
-![Zomato Food Delivery Data Insights](./Screenshot%202026-08-08%20090036.png)
+![Zomato Food Delivery Data Insights](./app-preview.png)
