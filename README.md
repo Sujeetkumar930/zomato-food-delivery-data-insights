@@ -68,5 +68,11 @@ zomato-food-delivery-data-insights/
 │
 └── Zomato_Project_Cover_Page_One_Page.docx
 
+**Add it after `Zomato_Project_Cover_Page_One_Page.docx`.**
+
+Then commit the change.
+
+After that, GitHub should show **Application Preview as a heading and the actual screenshot underneath it**, rather than showing the Markdown code.
+
 ## Application Preview
 ![Zomato Food Delivery Data Insights](./Screenshot%202026-08-08%20090036.png)
